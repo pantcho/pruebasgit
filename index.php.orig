@@ -1,0 +1,12 @@
+<?
+
+	echo "hola mundo";
+	
+	echo "hola pantcho";
+<<<<<<< HEAD
+
+	echo "cambio local";
+=======
+	
+	echo "cambio desde el server";
+>>>>>>> 510d49b5c46604378b455a4f24e330624e54b7b6
